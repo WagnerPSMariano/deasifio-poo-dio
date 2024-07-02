@@ -1,0 +1,9 @@
+package snippet;
+
+public class Snippet {
+	Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	
+		at br.com.dio.desafio.dominio.Main.main(Main.java:9)
+	
+}
+
